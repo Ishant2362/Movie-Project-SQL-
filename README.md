@@ -2,9 +2,9 @@
 
 # INTRODUCTION :-
 
-#This is a project sample database designed for the movie industry.
-#It focuses on managing and retrieving data related to movies, aiming to answer common questions that movie enthusiasts might have.
-#The database structure facilitates queries about actors, genres, directors, movies, reviews, ratings, and more.
+-> This is a project sample database designed for the movie industry.
+-> It focuses on managing and retrieving data related to movies, aiming to answer common questions that movie enthusiasts might have.
+-> The database structure facilitates queries about actors, genres, directors, movies, reviews, ratings, and more.
 
 # KEY HIGHLIGHTS :-
 
