@@ -1,4 +1,4 @@
-# Excel-Online-Retailer-Project
+# MOVIE-PROJECT-SQL
 #INTRODUCTION :-
 
 This is a project sample database designed for the movie industry.
